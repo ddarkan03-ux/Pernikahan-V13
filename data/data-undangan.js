@@ -15,7 +15,7 @@ window.DATA_UNDANGAN = {
     arti: "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antara kamu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir.",
     sumber: "QS. Ar-Rum: 21" },
   kisah: [{tahun:"2020", judul:"Bertemu", isi:"tes"},{tahun:"2020", judul:"Bertemu", isi:"tes"}],            // contoh: [{tahun:"2020", judul:"Bertemu", isi:"..."}]
-  galeri: ["foto/galeri-1.webp","foto/galeri-2.webp", "foto/galeri-3.webp"],           // contoh: ["foto/g1.jpg","foto/g2.jpg"] (kosong = bagian disembunyikan)
+  galeri: ["foto/galeri-1.webp","foto/galeri-2.webp", "foto/galeri-3.webp","foto/galeri-4.webp","foto/galeri-5.webp"],           // contoh: ["foto/g1.jpg","foto/g2.jpg"] (kosong = bagian disembunyikan)
   live: "",             // tautan YouTube/Zoom
   hadiah: { rekening: [ // maksimal 2
     { label: "Mempelai Pria", jenis: "Nomor Rekening (BANK DEMO)", nomor: "0000000000", nama: "Raka Pratama (DEMO)" },
